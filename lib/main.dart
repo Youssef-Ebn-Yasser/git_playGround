@@ -13,8 +13,7 @@ class myWidgit extends StatelessWidget {
           floatingActionButton: FloatingActionButton(onPressed:(){}),
           appBar: AppBar(
             title: Text("title for app bar new comment"),
-            backgroundColor: Colors.red,
-            foregroundColor:Colors.deepPurpleAccent,
+
           ),
           body: Center(
             child: Text('this is my word in new'),
