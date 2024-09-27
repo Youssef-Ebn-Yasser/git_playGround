@@ -12,11 +12,11 @@ class myWidgit extends StatelessWidget {
         home: Scaffold(
           floatingActionButton: FloatingActionButton(onPressed:(){}),
           appBar: AppBar(
-            title: Text("title for app bar new comment"),
+
 
           ),
           body: Center(
-            child: Text('this is my word in new'),
+            child: Text('this is my word in new bla bla bla'),
 
           ),
         ));
